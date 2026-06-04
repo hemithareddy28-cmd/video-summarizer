@@ -127,10 +127,8 @@ This project helped me gain practical experience in:
 - Real-time video processing
 
 ---
+## Note
 
-## Author
+The application fully supports local video uploads for transcription and summarization.
 
-**Hemitha Reddy**  
-Computer Science Undergraduate  
-Interested in Software Development, Artificial Intelligence, and Intelligent Information Systems
-
+YouTube URL processing may be restricted in some cloud-hosted environments due to platform-specific access limitations.
